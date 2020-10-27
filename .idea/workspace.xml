@@ -18,6 +18,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
@@ -128,6 +132,17 @@
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iMm0dJy0H9hOwuuEji44bZZOIl" />
@@ -138,8 +153,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../smart_location_admin" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -158,6 +174,18 @@
       <updated>1601725612886</updated>
       <workItem from="1601725614042" duration="2571000" />
       <workItem from="1601728848109" duration="5618000" />
+      <workItem from="1601735824892" duration="417000" />
+      <workItem from="1601776238861" duration="474000" />
+      <workItem from="1602312070652" duration="1000" />
+      <workItem from="1602826491189" duration="655000" />
+      <workItem from="1603526032037" duration="57000" />
+      <workItem from="1603610993703" duration="16000" />
+      <workItem from="1603617058954" duration="1000" />
+      <workItem from="1603619005898" duration="1425000" />
+      <workItem from="1603800796568" duration="11000" />
+      <workItem from="1603801429775" duration="739000" />
+      <workItem from="1603802184737" duration="1985000" />
+      <workItem from="1603805283660" duration="3685000" />
     </task>
     <servers />
   </component>
@@ -165,17 +193,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="267" y="275" key="FileChooserDialogImpl" timestamp="1603526086300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603526086300" />
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1601734512027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601734512027" />
-    <state x="0" y="165" key="SettingsEditor" timestamp="1601734483306">
+    <state x="0" y="165" key="SettingsEditor" timestamp="1603802164551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601734483306" />
-    <state x="151" y="229" key="search.everywhere.popup" timestamp="1601732439120">
+    <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603802164551" />
+    <state x="151" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603809855702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="151" y="229" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601732439120" />
+    <state x="151" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603809855702" />
   </component>
 </project>
